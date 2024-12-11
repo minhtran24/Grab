@@ -1,0 +1,11 @@
+{
+  "name": "com.git.grabobject",
+  "version": "1.0.2",
+  "displayName": "Grab Object",
+  "description": "Grab the object",
+  "unity": "2022.1",
+  "author": {
+    "name": "Minh Tran"
+    
+  }
+}
